@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Edwin and I'm an aspiring Software Engineer, from New York.</h2>
+<h2 align="left">Hi! My name is Edwin and I'm a Software Engineer based in upstate New York. Have a look around at some of my previous work! I am looking for new opportunities. :)</h2>
 
 ###
 
@@ -32,10 +32,10 @@
   <a href="http://discordapp.com/users/384067695793930243" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="edwinthejr@gmail.com" target="_blank">
+  <a href="mailto:edwinthejr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/edwin-moralesjr" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-moralesjr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
