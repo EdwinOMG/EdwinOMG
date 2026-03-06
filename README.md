@@ -1,16 +1,7 @@
-  <div align="center">
+<div align="center">
 
-```
-███████╗██████╗ ██╗    ██╗██╗███╗   ██╗
-██╔════╝██╔══██╗██║    ██║██║████╗  ██║
-█████╗  ██║  ██║██║ █╗ ██║██║██╔██╗ ██║
-██╔══╝  ██║  ██║██║███╗██║██║██║╚██╗██║
-███████╗██████╔╝╚███╔███╔╝██║██║ ╚████║
-╚══════╝╚═════╝  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
-```
-
-### 👋 Hey, I'm Edwin — Software Engineer from Upstate New York
-#### Building things on the web · Open to new opportunities
+### 👋 Software Engineer · Upstate New York
+#### Writing code that solves real problems and ships products people actually use · Open to new opportunities
 
 <br/>
 
@@ -25,17 +16,17 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
 </div>
 
@@ -44,9 +35,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwinOMG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="Edwin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdwinOMG&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&rank_icon=github" height="160" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdwinOMG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Edwin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdwinOMG&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
 ---
